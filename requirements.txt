@@ -1,0 +1,7 @@
+pathway
+requests
+pandas
+tqdm
+sentence-transformers
+torch
+python-dotenv
