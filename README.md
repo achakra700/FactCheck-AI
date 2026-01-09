@@ -1,6 +1,7 @@
-# KDS Hackathon - Narrative Consistency System
+# 🕵️ FactCheck-AI: Narrative Consistency System
 
-Production-grade implementation of the Narrative Consistency and Causal Reasoning system for Track A using LLM-driven analysis and vector retrieval.
+**Track A Submission | KDSH 2025**
+implementation of the Narrative Consistency and Causal Reasoning system for Track A using LLM-driven analysis and vector retrieval.
 
 ## 🎯 Features
 
